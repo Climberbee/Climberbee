@@ -1,4 +1,56 @@
-### Hi there 👋
+# Hi there 👋
+I'm Jason - A Embedded Systems / Control Systems Engineer from Australia.
+
+![build: passing](https://img.shields.io/badge/build-passing-success)
+![version :12.05.2021](https://img.shields.io/badge/version-12.05.2021-informational)
+![status: hired](https://img.shields.io/badge/status-hired-green)
+
+- Control Systems Engineer in Health Care
+- Consultant and Integrator of Fancy LED Lighting Systems
+
+## Skills
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class engineering:
+  def __init__(self):
+    self.name = "Jason"
+    self.programming = "C, C++, Python, VBA"
+    self.databases = "SQLite, MySQL, PostgreSQL"
+    self.mcu = "AVR, ARM, ESP, STM, PIC"
+    self.controlSystems = "CitectScada, Allen Bradley, RS-Logix"
+    
+me = engineering()
+```  
+
+## Work Experience
+Job Name | Roles & responsibilities | Duration
+-------- | ------------------------ | --------
+Control Systems Engineer | Maintain Hospital Control Systems | May 2019 - Present
+Screen Graphics Technician @ Village Roadshow | Build cool plane cockpits for movies | December 2018 - May 2019
+Junior Project Engineer @ Gelita Australia | Electrical & Control Systems design and implementation | January 2015 - December 2018
+
+## 🔭 What I'm interested in?
+- Automation, AI, Machine Learning
+- Open Source Techologies
+- Hackathons, Makerspaces, Community Involvement
+- Embedded systems design
+- Pretty LED's
+- Spending all night on 1 issue and closing 10 tabs
+
+## 🌱 What I want to learn?
+- Data Engineering and Data Science
+- Speech Processing and Computer Vision
+- Wireless Communication
+
+## 👯 I’m looking to collaborate on ..
+- Research and strategic planning into the following:
+  - Building Management Systems in a healthcare setting
+  - Energy Management Systems
+  - Energy Efficiency
+
+
 
 <!--
 **Climberbee/Climberbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
